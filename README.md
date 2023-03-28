@@ -1,6 +1,6 @@
-# Vue Template
+# Vue - Computed Properties
 
-Template di partenza per progetti Vue con option API
+Progetto esplicativo computed properties
 
 Per installare il progetto
 - npm install
